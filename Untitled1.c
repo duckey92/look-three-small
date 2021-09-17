@@ -1,3 +1,3 @@
 int main() {
-printf ("¿n§l\n");
+printf ("È¥®Â≠ê");
 }
