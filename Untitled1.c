@@ -1,3 +1,3 @@
 int main() {
-printf ("鴨子");
+printf ("鴨子\n");
 }
